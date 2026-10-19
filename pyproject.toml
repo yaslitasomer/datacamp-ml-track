@@ -20,6 +20,7 @@ dependencies = [
     "pandas>=3.0.6",
     "readability>=0.3.2",
     "readability-lxml>=0.9",
+    "scikit-image>=0.26.0",
     "scikit-learn>=1.9.1",
     "seaborn>=0.13.2",
     "sentencepiece>=0.2.2",
