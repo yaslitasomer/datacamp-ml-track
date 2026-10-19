@@ -15,6 +15,7 @@ dependencies = [
     "librosa>=1.0.0",
     "matplotlib>=3.11.2",
     "mlxtend>=0.25.0",
+    "nbstripout>=0.9.1",
     "nltk>=3.10.3",
     "numpy>=2.5.3",
     "pandas>=3.0.6",
