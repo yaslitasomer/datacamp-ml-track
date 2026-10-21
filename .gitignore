@@ -19,3 +19,5 @@ Thumbs.db
 
 # en_core_web_lg-3.8.0-py3-none-any
 en_core_web_lg-3.8.0-py3-none-any.whl
+
+20_Winnging_a_Kaggle_Competition_in_Python/data/*.json
